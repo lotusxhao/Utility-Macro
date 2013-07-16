@@ -15,5 +15,10 @@ filename storage 'C:\wendi\Utility-Macro';
 %inc storage(char2num.sas);
 %inc storage(words.sas);
 %inc storage(varlist.sas);
-%inc storage(varlistc.sas);
-%inc storage(varlistn.sas)
+%inc storage(varnum.sas);
+%inc storage(nvars.sas);
+%inc storage(delmac.sas);
+%inc storage(remove.sas);
+%inc storage(removew.sas);
+%inc storage(quotelst.sas);
+
