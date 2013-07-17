@@ -7,7 +7,6 @@
 / SubMacros : %attrn %words %varlist
 / Notes     : This is a shell macro that calls %attrn
 / Usage     : %let nvars=%nvars(dsname, type = chr);
-/ 
 /===============================================================================
 / PARAMETERS:
 /-------name------- -------------------------description------------------------

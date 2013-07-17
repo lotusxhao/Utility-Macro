@@ -21,4 +21,9 @@ filename storage 'C:\wendi\Utility-Macro';
 %inc storage(remove.sas);
 %inc storage(removew.sas);
 %inc storage(quotelst.sas);
-
+%inc storage(getvalue.sas);
+%inc storage(dslist.sas);
+%inc storage(nlobs.sas);
+%inc storage(nobs.sas);
+%inc storage(misscnt.sas);
+%inc storage(missvars.sas);
