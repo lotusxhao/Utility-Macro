@@ -67,5 +67,7 @@ options nosource;
 %inc storage(mvarlist.sas);
 /* Dependence = %words */
 %inc storage(mvarvalues.sas);
+/* Dependence = %varlist %quotelst %words %remove */
+%inc storage(duplvars.sas);
 
 options source;
